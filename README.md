@@ -1,4 +1,6 @@
-# travel-journal
+# Travel-Journal
+
+A practise solo project from scrimba
 
 # Page Link - 
 https://hassanatb-o.github.io/travel-journal/
